@@ -24,7 +24,7 @@
 
 选择好后点击点击**Install**
 
-![图片](https://uploader.shimo.im/f/9VY29TXWefYOrsNW.png!thumbnail)
+![图片](./img/02.png)
 
 依次打开文件夹：C:\Program Files\Adobe\Adobe Photoshop CC 2018\
 
@@ -43,11 +43,11 @@
 
 在开始菜单找到对应的图标，比如我的Photoshop 打开文件位置，
 
-![图片](https://uploader.shimo.im/f/N8T3u7mUwUUamUmC.png!thumbnail)
+![图片](./img/03.png)
 
 找到对应的快捷方式后右键，打开文件所在位置。 此时的路径就是我们程序的安装路径了。
 
-![图片](https://uploader.shimo.im/f/CovxOoDE1FgAmb7o.png!thumbnail)
+![图片](./img/04.png)
 
 
 
