@@ -1,8 +1,4 @@
----
-title: Adobe cc2018及以前版本通用激活教程
-tags: Blog 笔记
----
-
+<h1><a href="https://win.gxzyzd.com"></h1>
 # 先整理一下思路
 由于Adobe cc系列版本到2018版本之前（包括Adobe cc 2018）的激活信息都和一个dll相关，所以只要保证那个包含激活信息的dll有效即可。无论你是什么版本，只要替换掉那个dll，就可以激活成功。
 
