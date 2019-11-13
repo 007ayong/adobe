@@ -18,7 +18,7 @@
 
 选择需要激活的 Adobe 应用，其他的不做更改。
 
-![图片](https://uploader.shimo.im/f/7gH6h20C5Kkex42e.png!thumbnail)
+![图片](./img/01.png)
 
 我是需要激活 AdobePhotoshopCC 2018（**cc2018的程序用2017的补丁即可**）
 
